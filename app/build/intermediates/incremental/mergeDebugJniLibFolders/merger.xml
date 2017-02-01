@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/src/debug/jniLibs"/></dataSet></merger>

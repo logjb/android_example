@@ -1,0 +1,7 @@
+#Wed Feb 01 17:18:25 EST 2017
+base.0=/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dcd365065401189317d5ea83030d20dfd6aa4dbc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1869dd8d02fc8b2870025be96a246383657b36b/classes.dex
+base.1=/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1869dd8d02fc8b2870025be96a246383657b36b
+file.0=/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dcd365065401189317d5ea83030d20dfd6aa4dbc/classes.dex

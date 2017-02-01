@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

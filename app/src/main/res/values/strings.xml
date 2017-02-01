@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="sum_activity_heading">Sum Activity</string>
+    <string name="sum_activity_gotnothing">No Values Passed</string>
+    <string name="zxing_barcode_scanner">Explicit\nAsk for zxing barcode scanner\n<font color='red'>install zxing or it does not work</font></string>
+    <string name="launch_an_email_app">Implicit - Launch an email app\n<font color='red'>install 4_CustomIntent_and_BogusEmail_App first</font></string>
+    <string name="launch_with_custom_action">Implicit - Launch with custom action\n<font color='red'>install 4_CustomIntent_and_BogusEmail_App first</font> </string>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/res/merged/debug/menu/activity_camera.xml",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/src/main/res/menu/activity_camera.xml"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/build/intermediates/res/merged/debug/menu/activity_camera.xml",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/src/main/res/menu/activity_camera.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/keith/CPSC475_examples/4_Explicit_Implicit_IntentDemodd/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
